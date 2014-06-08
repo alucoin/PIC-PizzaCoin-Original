@@ -1,9 +1,7 @@
 ﻿PizzaCoin
 ========
 PizzaCoin is a scrypt ALGO based crypto coin like Litecoin but with random rewards feature from Luckycoin (random blocks) and with transaction message feature from Florincoin (transaction message).
-
 PizzaCoin is a fast and secure crypto currency ready for micro sales of goods, services payment and focused on industry specific needs.
-
 **PizzaCoin is profitable for those who like PIZZA!!!**  
 
 
