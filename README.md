@@ -28,7 +28,7 @@ Tech Spec
 
 Version 1001 Modifications
 ========
-* Checkpoints up to block *326986*
+* Checkpoints up to block **326986**
 * Added a Windows compiling IF in **rpcnet.cpp** source file
 * Added a Windows compiling IF in **irc.cpp** source file
 * Change the version number from Ver. 631 to Ver 1001 (New Version Scale)
