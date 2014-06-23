@@ -12,17 +12,6 @@ Default Ports
 * RPC: **46556**
 
 
-Get more info
-========
-* Official WEB Site: http://pizzacoin.info
-* Block explorer: http://explorer.pizzacoin.info
-* Forum: https://cryptocointalk.com/forum/598-pizzacoin-pic/
-* Twitter: https://twitter.com/AddNodeMaster
-* Direct contact: contact@@@pizzacoin.info
-* IRC Channel: https://webchat.freenode.net/?channels=#ccp
-* Facebook page: https://www.facebook.com/pages/CCP-Crypto-Coin-Preservation/230710687127136
-
-
 Tech Spec
 ========
 * Scrypt Algo
@@ -37,7 +26,6 @@ Tech Spec
 * Super Blocks at every 100K discovery
 
 
-
 Version 1001 Modifications
 ========
 * Checkpoints up to block *326986*
@@ -47,6 +35,18 @@ Version 1001 Modifications
 * Random reward lowered but more frequent (From block 330K)
 * Introduction of super blocks for each new 100K block dicovery (400K=4 KPIC - 500K=5K PIC - and so on)
 * **REWARD HAVING REMOVED**
+
+
+Get more info
+========
+* Official WEB Site: http://pizzacoin.info
+* Block explorer: http://explorer.pizzacoin.info
+* Forum: https://cryptocointalk.com/forum/598-pizzacoin-pic/
+* Twitter: https://twitter.com/AddNodeMaster
+* Direct contact: contact@@@pizzacoin.info
+* IRC Channel: https://webchat.freenode.net/?channels=#ccp
+* Facebook page: https://www.facebook.com/pages/CCP-Crypto-Coin-Preservation/230710687127136
+
 
 ========
 PIC-PizzaCoin is provided by CCP aka Crypto Currency Preservation.  
