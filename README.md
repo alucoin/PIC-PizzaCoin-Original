@@ -2,6 +2,7 @@
 ========
 PizzaCoin is a scrypt ALGO based crypto coin like Litecoin but with random rewards feature from Luckycoin (random blocks) and with transaction message feature from Florincoin (transaction message).
 PizzaCoin is a fast and secure crypto currency ready for micro sales of goods, services payment and focused on industry specific needs.
+
 **PizzaCoin is profitable for those who like PIZZA!!!**  
 
 
@@ -19,6 +20,7 @@ Get more info
 * Twitter: https://twitter.com/AddNodeMaster
 * Direct contact: contact@@@pizzacoin.info
 * IRC Channel: https://webchat.freenode.net/?channels=#ccp
+* Facebook page: https://www.facebook.com/pages/CCP-Crypto-Coin-Preservation/230710687127136
 
 
 Tech Spec
@@ -38,7 +40,7 @@ Tech Spec
 
 Version 1001 Modifications
 ========
-* Checkpoints up to block 326986
+* Checkpoints up to block *326986*
 * Added a Windows compiling IF in **rpcnet.cpp** source file
 * Added a Windows compiling IF in **irc.cpp** source file
 * Change the version number from Ver. 631 to Ver 1001 (New Version Scale)
